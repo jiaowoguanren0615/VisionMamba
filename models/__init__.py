@@ -1,0 +1,6 @@
+from .build_models import vim_base_patch16_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual, \
+    vim_small_patch16_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual, \
+    vim_tiny_patch8_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual, \
+    vim_tiny_patch16_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual, \
+    vim_tiny_patch8_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual_with_cls_token, \
+    vim_tiny_patch16_224_bimambav2_final_pool_mean_abs_pos_embed_rope_also_residual_with_cls_token
